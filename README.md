@@ -1,5 +1,4 @@
-# Customer_Churn_Analysis
-Customer Churn Analysis
+# Customer Churn Analysis
 
 
 # Business request
@@ -76,11 +75,11 @@ Visualizations
 Key Performance Indicators (KPIs)
 Conclusions and key takeaways.
 
-# Click here to read the full analytic report
+# Links and full analytic report
 
 -Full analytic report
 
--Tableau Dashboard
+-[Tableau Dashboard](https://public.tableau.com/views/CustomerChurnAnalysis_17074247770050/Dashboard52?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 -Portfolio
 
